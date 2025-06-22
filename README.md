@@ -17,7 +17,7 @@ This project is a responsive and interactive **Product Listing Webpage** built u
 
 ## 🖼️ Demo 
 
-https://lavs2005.github.io/Apex-Task-4-productlist/
+ https://yatheeswar42.github.io/Apex-task-4-productlist/
 
 ---
 
