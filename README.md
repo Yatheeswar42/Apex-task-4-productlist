@@ -35,7 +35,7 @@ To run this project locally:
 
 1. Clone the repository:
    
-   git clone https://github.com/your-username/product-listing-page.git
+   git clone https://github.com/Yatheeswar42/Apex-task-4-productlist.git
 
 3. Navigate to the project folder:
 
